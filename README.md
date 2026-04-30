@@ -37,7 +37,7 @@ Equipamentos agrícolas operam sob condições variáveis como chuva, tipo de so
 
 O AgroScore calcula um **score de risco de 0 a 100** para cada operação, classificando-o em Baixo, Médio ou Alto risco, e transforma esse dado em uma **recomendação prática** para o operador. Para a seguradora, o sistema oferece padrões de risco por região e apoio à subscrição e precificação. O modelo preditivo principal é o **Random Forest**, treinado para prever a variável `sinistro (0 ou 1)` com base em variáveis climáticas, geográficas e operacionais, avaliado por métricas como Recall, F1-score e AUC-ROC.
 
-> 📽️ **Vídeo de Apresentação:** [Inserir link aqui] *(até 5 minutos)*
+> 📽️ **Vídeo de Apresentação:** https://youtu.be/nF5LFFOCom4
 
 ---
 
