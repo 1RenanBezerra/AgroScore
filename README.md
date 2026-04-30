@@ -371,30 +371,30 @@ A solução integra diferentes fontes de dados estruturadas em quatro categorias
 
 | Tarefa | Responsável |
 |--------|------------|
-| Coleta de dados climáticos via INMET e CPTEC/INPE | [Integrante] |
-| Coleta de dados de relevo e solo (SRTM/NASA + MapBiomas) | [Integrante] |
-| Geração do dataset simulado com 500+ registros | [Integrante] |
-| Análise exploratória: correlações e padrões por região | [Integrante] |
-| Notebook de EDA documentado | [Integrante] |
+| Coleta de dados climáticos via INMET e CPTEC/INPE | [À Definir] |
+| Coleta de dados de relevo e solo (SRTM/NASA + MapBiomas) | [À Definir] |
+| Geração do dataset simulado com 500+ registros | [À Definir] |
+| Análise exploratória: correlações e padrões por região | [À Definir] |
+| Notebook de EDA documentado | [À Definir] |
 
 ### Sprint 3 — Modelagem Preditiva
 
 | Tarefa | Responsável |
 |--------|------------|
-| Pré-processamento e feature engineering | [Integrante] |
-| Treinamento do modelo Random Forest | [Integrante] |
-| Avaliação de métricas (Recall, F1-score, AUC-ROC) | [Integrante] |
-| Implementação do score de risco (0–100) | [Integrante] |
-| Feature importance e explicabilidade do score | [Integrante] |
+| Pré-processamento e feature engineering | [À Definir] |
+| Treinamento do modelo Random Forest | [À Definir] |
+| Avaliação de métricas (Recall, F1-score, AUC-ROC) | [À Definir] |
+| Implementação do score de risco (0–100) | [À Definir] |
+| Feature importance e explicabilidade do score | [À Definir] |
 
 ### Sprint 4 — Interface e Protótipo Funcional
 
 | Tarefa | Responsável |
 |--------|------------|
-| Dashboard em Streamlit para gestores | [Integrante] |
-| Painel de alerta para operadores | [Integrante] |
-| Integração modelo preditivo + interface | [Integrante] |
-| Mapa geoespacial com níveis de risco | [Integrante] |
+| Dashboard em Streamlit para gestores | [À Definir] |
+| Painel de alerta para operadores | [À Definir] |
+| Integração modelo preditivo + interface | [À Definir] |
+| Mapa geoespacial com níveis de risco | [À Definir] |
 | Testes com as personas e ajustes finais | Todos |
 
 ### Sprint 5 — MVP e Apresentação Final
@@ -402,8 +402,8 @@ A solução integra diferentes fontes de dados estruturadas em quatro categorias
 | Tarefa | Responsável |
 |--------|------------|
 | Integração completa de todos os componentes | Todos |
-| Testes de desempenho e validação do modelo | [Integrante] |
-| Documentação final do repositório | [Integrante] |
+| Testes de desempenho e validação do modelo | [À Definir] |
+| Documentação final do repositório | [À Definir] |
 | Gravação do vídeo de demonstração | Todos |
 
 ---
