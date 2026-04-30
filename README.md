@@ -10,7 +10,7 @@
 
 # 🌾 AgroScore — Predição e Prevenção de Sinistros em Equipamentos Agrícolas
 
-## Grupo [Nome do Grupo]
+
 
 ## 👨‍🎓 Integrantes
 
