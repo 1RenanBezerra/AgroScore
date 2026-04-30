@@ -275,7 +275,10 @@ A solução integra diferentes fontes de dados estruturadas em quatro categorias
 **Métricas priorizadas:** o **Recall** é a métrica mais crítica do projeto — minimizar falsos negativos (sinistros não detectados) é mais importante do que minimizar falsos positivos, dado o alto custo de um sinistro não previsto.
 
 ---
+## Fluxograma Visual 
+<img width="1280" height="902" alt="WhatsApp Image 2026-04-29 at 21 31 16" src="https://github.com/user-attachments/assets/7352feab-9af6-44a5-8888-afd01da47cb1" />
 
+---
 ## 🏗️ Arquitetura da Solução
 
 ```
